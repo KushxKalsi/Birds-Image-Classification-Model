@@ -2,7 +2,7 @@
 
 This project is an image classification model designed to identify birds species using deep learning techniques. The model is built using TensorFlow and Keras, and it is deployed on a Streamlit web application, where users can input image URLs for prediction.
 
-![Project Banner](Images/HomePage.png)
+![Project Banner](Images/Home_Page.png)
 
 ## Project Structure
 
