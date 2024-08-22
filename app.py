@@ -9,7 +9,7 @@ from io import BytesIO
 st.set_page_config(page_title='Image Classification Model')
 st.title('Image Classification Model on Birds Species')
 
-model= load_model("Image_classify_Birds.keras")
+model= load_model("Image_classify_Birds_Model.keras")
 
 data_cat = ['ABBOTTS BABBLER',
  'ABBOTTS BOOBY',
