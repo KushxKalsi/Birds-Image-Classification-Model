@@ -1,6 +1,6 @@
-# Image Classification: Fruits and Vegetables
+# Image Classification: Birds Species
 
-This project is an image classification model designed to identify fruits and vegetables using deep learning techniques. The model is built using TensorFlow and Keras, and it is deployed on a Streamlit web application, where users can input image URLs for prediction.
+This project is an image classification model designed to identify birds species using deep learning techniques. The model is built using TensorFlow and Keras, and it is deployed on a Streamlit web application, where users can input image URLs for prediction.
 
 ![Project Banner](Images/Image_Classificaion_Model_Screenshot.png)
 
