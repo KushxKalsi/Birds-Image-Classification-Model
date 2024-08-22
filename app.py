@@ -536,7 +536,7 @@ data_cat = ['ABBOTTS BABBLER',
  'YELLOW CACIQUE',
  'YELLOW HEADED BLACKBIRD',
  'ZEBRA DOVE']
-image_url =st.text_input("Enter image URL","https://github.com/KushxKalsi/Birds-Image-Classification-Model/blob/main/Images/Peacock.jpg?raw=true")
+image_url =st.text_input("Enter image URL","https://github.com/KushxKalsi/Birds-Image-Classification-Model/blob/main/Images/Crow.jpg?raw=true")
 response = requests.get(image_url)
 img = Image.open(BytesIO(response.content))
 st.image(img, caption="Image from URL",width=300)
