@@ -31,4 +31,5 @@ This project is an image classification model designed to identify birds species
 ## Example
 
 - **URL**: Use this example image URL: `https://github.com/KushxKalsi/Birds-Image-Classification-Model/blob/main/Images/Crow.jpg?raw=true`
+- **APP URL**: https://birds-image-classification-model-3gtmbjda9chcmmhphcb3nk.streamlit.app/
 - **Prediction**: The model will predict "Bird_Species".
